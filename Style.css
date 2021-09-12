@@ -1,0 +1,10 @@
+body {
+    background-color: plum;
+    font-family: verdana;
+    font-size: 150%;
+    margin: auto;
+    width: 60%;
+   }
+input {
+    font-size: 65%;
+}
